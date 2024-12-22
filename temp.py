@@ -1,2 +1,2 @@
 print("dd")
-print("second")
+print("seconds")
